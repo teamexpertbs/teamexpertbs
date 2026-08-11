@@ -2,11 +2,14 @@
 
 # 👋 Hi there, I'm <span style="color: #4CAF50;">Smarty Sunny</span> 👨‍💻
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Android+App+Developer+📱;Native+Java+%26+Kotlin+Dev+⚡;UI%2FUX+Game+Mechanics+Expert+🎮;Open+Source+Contributor+🌟" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Android+App+Developer;Java+and+Kotlin+Developer;Game+Mechanics+Expert;Open+Source+Contributor" alt="Typing SVG" />
+
+<br/><br/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=teamexpertbs&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Visitors" />
   <img src="https://img.shields.io/github/followers/teamexpertbs?label=Followers&style=flat-square&color=blue" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/teamexpertbs/kingludo?label=King%20Ludo%20Stars&style=flat-square&color=FFD700" alt="Stars" />
 </p>
 
 ---
@@ -16,7 +19,6 @@
 - 🎮 Building native Android games & apps like **Ludo King**.
 - ⚡ Focused on clean architecture, performance optimization & responsive UI.
 - 💬 Ask me about **Android Development, Java, Gradle, CI/CD**.
-- 📫 Reach out to me via social handles below!
 
 ---
 
@@ -35,15 +37,14 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Activity & Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=teamexpertbs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teamexpertbs&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=teamexpertbs&theme=tokyonight&hide_border=true" width="85%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=teamexpertbs&theme=tokyonight&hide_border=true" width="97%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=teamexpertbs&theme=tokyo-night" width="85%" />
 </p>
 
 ---
